@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
 using Xamarin.Forms;
 
 namespace XamAppCenter
@@ -16,7 +18,20 @@ namespace XamAppCenter
 
         private void btnException_Clicked(object sender, EventArgs e)
         {
-            throw new NotImplementedException("btnException_Clicked event is not implemented yet.");
+            Analytics.TrackEvent("DINO: btnException_Clicked event triggered.");
+
+            try
+            {
+                int a = Convert.ToInt32("Xamarin");
+            }
+            catch(Exception ex)
+            {
+                Crashes.TrackError(ex);
+            }
+
+            DisplayAlert("Title", "btnException_Clicked event has thrown and handled exception", "OK");
+
+            Analytics.TrackEvent("DINO: btnException_Clicked has thrown and handled exception.");
         }
     }
 }

@@ -12,7 +12,6 @@ C:/source/XamAppCenter/XamAppCenter/XamAppCenter/obj/Debug/netstandard2.0/XamApp
 /Users/dinob/source/XamAppCenter/XamAppCenter/XamAppCenter/bin/Debug/netstandard2.0/XamAppCenter.deps.json
 /Users/dinob/source/XamAppCenter/XamAppCenter/XamAppCenter/bin/Debug/netstandard2.0/XamAppCenter.dll
 /Users/dinob/source/XamAppCenter/XamAppCenter/XamAppCenter/bin/Debug/netstandard2.0/XamAppCenter.pdb
-/Users/dinob/source/XamAppCenter/XamAppCenter/XamAppCenter/obj/Debug/netstandard2.0/XamAppCenter.csprojAssemblyReference.cache
 /Users/dinob/source/XamAppCenter/XamAppCenter/XamAppCenter/obj/Debug/netstandard2.0/App.xaml.g.cs
 /Users/dinob/source/XamAppCenter/XamAppCenter/XamAppCenter/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
 /Users/dinob/source/XamAppCenter/XamAppCenter/XamAppCenter/obj/Debug/netstandard2.0/XamAppCenter.csproj.CoreCompileInputs.cache

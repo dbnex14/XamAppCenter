@@ -1,25 +1,37 @@
 ﻿<Properties StartupConfiguration="{85401973-D3F0-4190-A40E-EC42C16C80C8}|Default">
-  <MonoDevelop.Ide.ItemProperties.XamAppCenter.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="XamAppCenter/XamAppCenter/MainPage.xaml">
+  <MonoDevelop.Ide.ItemProperties.XamAppCenter.Android PreferredExecutionTarget="Android.HT4A2JT00828" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamAppCenter/XamAppCenter/MainPage.xaml.cs">
     <Files>
-      <File FileName="XamAppCenter/XamAppCenter/MainPage.xaml" Line="15" Column="185" />
+      <File FileName="XamAppCenter/XamAppCenter/MainPage.xaml.cs" Line="12" Column="48" />
+      <File FileName="XamAppCenter/XamAppCenter/App.xaml.cs" Line="29" Column="42" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="XamAppCenter" expanded="True">
-            <Node name="XamAppCenter" expanded="True" />
-            <Node name="XamAppCenter.Android" selected="True" />
+            <Node name="XamAppCenter" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="XamAppCenter.Android" expanded="True" />
+            <Node name="XamAppCenter.UWP" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.XamAppCenter.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A58B438B-5BAB-480E-BF54-2E384C94B121" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.XamAppCenter.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.0b2a4310c871de92430e68a2b29f744d37580dea" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/dinob/source/XamAppCenter/XamAppCenter/XamAppCenter/MainPage.xaml.cs" relfile="XamAppCenter/XamAppCenter/MainPage.xaml.cs" line="25" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

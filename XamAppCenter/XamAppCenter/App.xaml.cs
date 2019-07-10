@@ -20,9 +20,9 @@ namespace XamAppCenter
         protected override void OnStart()
         {
             AppCenter.Start(
-                "android=b9a12e07-292d-4131-95b2-c5155f4adf88;" + 
-                "uwp={Your UWP App secret here};" + 
-                "ios={Your iOS App secret here}"
+                "android=b9a12e07-292d-4131-95b2-c5155f4adf88;" +
+                "uwp=b324e455-d5f9-459c-b177-0a5dba61eade;;" +
+                "ios=0a59b2b3-d83c-4fa5-bfc5-6728a6cdf853;"
                 , typeof(Analytics), typeof(Crashes));
         }
 

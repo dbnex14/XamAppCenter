@@ -15754,7 +15754,7 @@ _mono_aot_file_info:
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0,0,0,0,0
-	.byte 145,228,252,140,218,136,197,206,199,85,242,75,208,19,73,198
+	.byte 196,72,92,105,70,149,104,195,82,197,99,121,67,85,116,216
 	.globl _mono_aot_module_Microsoft_AppCenter_Crashes_info
 	.align 3
 _mono_aot_module_Microsoft_AppCenter_Crashes_info:
