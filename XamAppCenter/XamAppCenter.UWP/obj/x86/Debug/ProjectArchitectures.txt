@@ -1,0 +1,1 @@
+C:\source\XamAppCenter\XamAppCenter\XamAppCenter.UWP\XamAppCenter.UWP.csproj;x86

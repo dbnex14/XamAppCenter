@@ -14,7 +14,10 @@
     <Jar>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\2\jl\formsviewgroup.jar</Jar>
     <Jar>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\20\jl\bin\classes.jar</Jar>
     <Jar>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\21\jl\bin\classes.jar</Jar>
+    <Jar>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\26\jl\bin\classes.jar</Jar>
+    <Jar>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\27\jl\bin\classes.jar</Jar>
     <Jar>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\3\jl\arch-core-common.jar</Jar>
+    <Jar>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\30\jl\bin\classes.jar</Jar>
     <Jar>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\4\jl\arch-lifecycle-common.jar</Jar>
     <Jar>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\5\jl\bin\classes.jar</Jar>
     <Jar>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\6\jl\bin\classes.jar</Jar>
@@ -23,6 +26,9 @@
     <Jar>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\9\jl\bin\classes.jar</Jar>
   </Jars>
   <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\31\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\28\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\29\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\8\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\11\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\13\jl\res</ResolvedResourceDirectory>
@@ -34,10 +40,16 @@
     <ResolvedResourceDirectory>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\20\jl\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\\Debug\MonoAndroid81\lp\31\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\\Debug\MonoAndroid81\lp\28\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\\Debug\MonoAndroid81\lp\29\jl\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\\Debug\MonoAndroid81\lp\15\jl\assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\31.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\28.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\29.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\8.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\11.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\source\XamAppCenter\XamAppCenter\XamAppCenter.Android\obj\Debug\MonoAndroid81\lp\13.stamp</ResolvedResourceDirectoryStamp>
