@@ -13,5 +13,10 @@ namespace XamAppCenter
         {
             InitializeComponent();
         }
+
+        private void btnException_Clicked(object sender, EventArgs e)
+        {
+            throw new NotImplementedException("btnException_Clicked event is not implemented yet.");
+        }
     }
 }

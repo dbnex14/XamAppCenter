@@ -6,9 +6,11 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
+        <Label Text="Welcome to Xamarin.Forms App Center!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+
+        <Button x:Name="btnException" Text="Throw an Exception" Clicked="btnException_Clicked"/>
     </StackLayout>
 
 </ContentPage>

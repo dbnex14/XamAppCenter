@@ -14,6 +14,8 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Crashes;  // trying to add it here and see if it will work
 
 namespace XamAppCenter.UWP
 {
@@ -30,6 +32,10 @@ namespace XamAppCenter.UWP
         {
             this.InitializeComponent();
             this.Suspending += OnSuspending;
+
+            AppCenter.Start(
+                "uwp=b324e455-d5f9-459c-b177-0a5dba61eade;"
+                , typeof(Crashes));
         }
 
         /// <summary>
