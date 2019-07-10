@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dinob/source/XamAppCenter/XamAppCenter/XamAppCenter/XamAppCenter.csproj": {}
+  },
+  "projects": {
+    "/Users/dinob/source/XamAppCenter/XamAppCenter/XamAppCenter/XamAppCenter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dinob/source/XamAppCenter/XamAppCenter/XamAppCenter/XamAppCenter.csproj",
+        "projectName": "XamAppCenter",
+        "projectPath": "/Users/dinob/source/XamAppCenter/XamAppCenter/XamAppCenter/XamAppCenter.csproj",
+        "packagesPath": "/Users/dinob/.nuget/packages/",
+        "outputPath": "/Users/dinob/source/XamAppCenter/XamAppCenter/XamAppCenter/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/dinob/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AppCenter.Analytics": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AppCenter.Crashes": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[3.1.0.697729, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

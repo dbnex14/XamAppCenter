@@ -94,10 +94,11 @@
   },
   "libraries": {
     "Microsoft.AppCenter/2.1.1": {
-      "sha512": "Amdez9sPLvX9CossItOstMyOjvifpfw4Lz8TxmQVV3l8cCVSWfmnPc6sVdypVNldQJZ+PAVW27icw91YBvObSg==",
+      "sha512": "gvhXGfZCwXtUXT5SZaYeqR6eGgndMKOCpgVPRc0KQtOw7aI4Rx/sOBwWWDvFcBzP4dXo9FBMH9PJdyub5X79Og==",
       "type": "package",
       "path": "microsoft.appcenter/2.1.1",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/MonoAndroid403/Microsoft.AppCenter.Android.Bindings.dll",
         "lib/MonoAndroid403/Microsoft.AppCenter.dll",
@@ -116,10 +117,11 @@
       ]
     },
     "Microsoft.AppCenter.Analytics/2.1.1": {
-      "sha512": "dtB+5xlhlX+wSAfKIEdqdj1XrKacpC1z0rH1x9mvBAaoxEUFQk3017ZUwJ89z0Cj8ioX8yHGMQ5yozmT58YJlw==",
+      "sha512": "cmA+aDgztT1iRKE9HgdRwT3KgzOFMJFrsL4vIf0OP7Ijgud9CZ1XnvM49/JZDKY5qu38UnaZMMpN77uQRI7sow==",
       "type": "package",
       "path": "microsoft.appcenter.analytics/2.1.1",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/MonoAndroid403/Microsoft.AppCenter.Analytics.Android.Bindings.dll",
         "lib/MonoAndroid403/Microsoft.AppCenter.Analytics.dll",
@@ -138,10 +140,11 @@
       ]
     },
     "Microsoft.AppCenter.Crashes/2.1.1": {
-      "sha512": "5W3HVnYnn77lR9GjAOeYSt6SIeAfXUNIBJO71ZdjgHB9RIbJoeLXkhRWo1+Y6pNYoN2IEsnzMv0eETDsf+I7xg==",
+      "sha512": "MOyID2QqBFNbt/5tueEwCB4qC9fGFoEy34kUIzy3ai/mo56Xewyxux7hqoW6FjzbU8U9VgJpFOI6KeeAn2tiHA==",
       "type": "package",
       "path": "microsoft.appcenter.crashes/2.1.1",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "build/uap10.0/Microsoft.AppCenter.Crashes.targets",
         "lib/MonoAndroid403/Microsoft.AppCenter.Crashes.Android.Bindings.dll",
@@ -313,10 +316,11 @@
       ]
     },
     "Xamarin.Forms/3.1.0.697729": {
-      "sha512": "YlFOM9u8onIRxJwYJ3l+O0wFKqzzrDjDrgnoBr1rct+eaQKU77vFydxvTP+WxYlYzR14hYvyLNC65L84+6ke6w==",
+      "sha512": "6y1rnRKVqgRWpGy+mjlgf5cxRYiHsiGS4b51/AJxxkEyf7w1XJGzcLl4wV8Yjpv6/kKxsIBoAgqxIdFElQcNkA==",
       "type": "package",
       "path": "xamarin.forms/3.1.0.697729",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "build/netstandard1.0/Mono.Cecil.Mdb.dll",
         "build/netstandard1.0/Mono.Cecil.Pdb.dll",
@@ -473,30 +477,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dbuljubasic\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/dinob/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\XamAppCenter\\XamAppCenter\\XamAppCenter\\XamAppCenter.csproj",
+      "projectUniqueName": "/Users/dinob/source/XamAppCenter/XamAppCenter/XamAppCenter/XamAppCenter.csproj",
       "projectName": "XamAppCenter",
-      "projectPath": "C:\\source\\XamAppCenter\\XamAppCenter\\XamAppCenter\\XamAppCenter.csproj",
-      "packagesPath": "C:\\Users\\dbuljubasic\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\XamAppCenter\\XamAppCenter\\XamAppCenter\\obj\\",
+      "projectPath": "/Users/dinob/source/XamAppCenter/XamAppCenter/XamAppCenter/XamAppCenter.csproj",
+      "packagesPath": "/Users/dinob/.nuget/packages/",
+      "outputPath": "/Users/dinob/source/XamAppCenter/XamAppCenter/XamAppCenter/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\dbuljubasic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/dinob/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

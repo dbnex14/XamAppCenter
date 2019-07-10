@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{85401973-D3F0-4190-A40E-EC42C16C80C8}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamAppCenter.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamAppCenter/XamAppCenter/MainPage.xaml">
+    <Files>
+      <File FileName="XamAppCenter/XamAppCenter/MainPage.xaml" Line="15" Column="185" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamAppCenter" expanded="True">
+            <Node name="XamAppCenter" expanded="True" />
+            <Node name="XamAppCenter.Android" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamAppCenter.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A58B438B-5BAB-480E-BF54-2E384C94B121" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
